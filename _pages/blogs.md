@@ -11,12 +11,6 @@ permalink: /blogs
 ================================================== -->
 <section class="recent-posts">
 
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
     <div class="row listrecent">
     {% for category in site.categories %}
     <div class="section-title col-md-12 mt-4">

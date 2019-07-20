@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Mark van Koningsveld
+title: About
 permalink: /about
 ---
 

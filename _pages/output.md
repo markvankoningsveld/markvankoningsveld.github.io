@@ -11,7 +11,7 @@ permalink: /output
   <li><b>Mark van Koningsveld</b>. (2019, July 18). OpenTISim (Version v0.4.0). Zenodo. <a href="http://doi.org/10.5281/zenodo.3341606">http://doi.org/10.5281/zenodo.3341606</a></li>
 </ul> 
 
-<h4>Publications</h4>
+<h4>Publications (selection)</h4>
 <ul>
   <li>Doropoulos, C., Elzinga, J., Ter Hofstede, R., <b>Van Koningsveld, M.</b> and Babcock, R., 2018. "Optimizing industrial-scale coral reef restoration: comparing harvesting wild coral spawn slicks and transplanting gravid adult colonies." Restoration Ecology, pp 1-10, <a href="https://doi.org/10.1111/rec.12918">https://doi.org/10.1111/rec.12918</a></li>
   <li>Laboyrie, P., <b>Van Koningsveld, M.</b>, Aarninkhof, S.G.J., Van Parys, M., Lee, M., Jensen, A., Csiti, A. and Kolman, R., 2018. "Dredging for Sustainable Infrastructure." CEDA / IADC, The Hague, The Netherlands.  ISBN 978-90-9031318-4</li>
@@ -24,6 +24,7 @@ permalink: /output
   <li>De Vriend, H. J., <b>Van Koningsveld, M.</b>, Aarninkhof, S. G. J., De Vries, M. B. and Baptist, M. J., 2015. "Sustainable hydraulic engineering through Building with Nature." Journal of Hydro-environment Research, 9, pp 159-171. <a href="https://doi.org/10.1016/j.jher.2014.06.004">https://doi.org/10.1016/j.jher.2014.06.004</a></li>
   <li>Garel, E., Camba, C., Ferreira, O. and <b>Van Koningsveld, M.</b>, 2014. "Applicability of the "Frame of Reference" approach for environmental monitoring of offshore renewable energy projects." Journal of Environmental Management, 141(1), pp 16-28. <a href="https://doi.org/10.1016/j.jenvman.2014.02.037">https://doi.org/10.1016/j.jenvman.2014.02.037</a></li> 
   <li>De Vriend, H.J., <b>M. van Koningsveld</b> and S.G.J. Aarninkhof, 2014. "'Building with Nature': the new Dutch approach to coastal and river works." Proceedings of the ICE - Civil Engineering, 167(1), pp. 18-24. <a href="https://doi.org/10.1680/cien.13.00003">https://doi.org/10.1680/cien.13.00003</a></li>
+  <li>De Vriend, H.J. and <b>M. van Koningsveld</b>, 2012. "Building with Nature. Thinking, acting and interacting differently." EcoShape – Building with Nature, Dordrecht, the Netherlands (Official booklet of the Building with Nature Innovation programme). ISBN 978-94-6190-957-2</li>
 </ul> 
 
 

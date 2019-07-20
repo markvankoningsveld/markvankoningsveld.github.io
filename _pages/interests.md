@@ -7,11 +7,11 @@ permalink: /interests
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Here I will share some of my research interests.
-   <li>Ports and waterways coding lab
-   <li>Problem driven research
-   <li>Sustainability actions
-</p>
+Here I will share some of my research interests.
+* Ports and waterways coding lab
+* Problem driven research
+* Sustainability actions
+
 </div>
 
 <div class="col-md-4">

@@ -5,8 +5,8 @@ permalink: /interests
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
 
+<div class="col-md-8 pr-5">
 
 <p>At this site I share some of my research interests.</p>
  <ul>
@@ -26,8 +26,8 @@ permalink: /interests
 </div>
 
 <div class="col-md-4">
-
 <div class="sticky-top sticky-top-80">
+
 <h5>Buy me a coffee</h5>
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
@@ -36,4 +36,5 @@ permalink: /interests
 
 </div>
 </div>
+
 </div>

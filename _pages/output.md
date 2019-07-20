@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Output
-permalink: /ouput
+permalink: /output
 ---
 
 <div class="row justify-content-between">
@@ -20,7 +20,6 @@ permalink: /ouput
   <li>Laboyrie, P., <b>Van Koningsveld, M.</b>, Aarninkhof, S.G.J., Van Parys, M., Lee, M., Jensen, A., Csiti, A. and Kolman, R., 2018. "Dredging for Sustainable Infrastructure." CEDA / IADC, The Hague, The Netherlands.  ISBN 978-90-9031318-4</li>
   <li><b>Van Koningsveld, M.</b>, R. ter Hofstede, J. Elzinga, T. Smolders, M. Schutter and R. Osinga, 2017. "ReefGuard: A Scientific Approach to Active Reef Rehabilitation." Terra et Aqua, 147(1), pp. 5-16.</li>
 </ul> 
-
 
 </div>
 </div>

@@ -4,9 +4,6 @@ title: Blogs
 permalink: /blogs
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
@@ -30,10 +27,3 @@ permalink: /blogs
     </div>
 
 </section>
-
-</div>
-
-<div class="col-md-4">
-
-</div>
-</div>

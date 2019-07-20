@@ -11,3 +11,5 @@ permalink: /about
 <p>He has been part of the Management Team of the EcoShape foundation, which runs the Building with Nature innovation programme, and currently still is secretary of the Topsector Water & Maritiem on behalf of the business node of the Dutch Diamond (government, research institutes, NGO’s and businesses).</p>
 
 <p>He currently holds the position of Manager R&D Engineering and has been appointed to a corporate taskforce structuring Van Oord's research and development activities.</p>
+
+<p>In March 2018, he was appointed as professor Ports and Waterways at Delft University of Technology for 0.4 fte. The remaining 0.6 fte he remains employed at Van Oord as Innovation Manager.</p>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research interests Mark van Koningsveld
+title: Research interests
 permalink: /interests
 ---
 

@@ -8,9 +8,9 @@ permalink: /interests
 <div class="col-md-8 pr-5">
 
 Here I will share some of my research interests.
-* Ports and waterways coding lab
-* Problem driven research
-* Sustainability actions
+ <li> Ports and waterways coding lab
+ <li> Problem driven research
+ <li> Sustainability actions
 
 </div>
 

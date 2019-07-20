@@ -13,3 +13,9 @@ permalink: /about
 <p>In 2015 Van Koningsveld was appointed as Manager R&D Engineering and selected to join a corporate taskforce structuring Van Oord's research and development activities.</p>
 
 <p>In March 2018, he was appointed as professor Ports and Waterways at Delft University of Technology for 0.4 fte. The remaining 0.6 fte he remains employed at Van Oord as Innovation Manager.</p>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>

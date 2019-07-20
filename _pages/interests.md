@@ -8,11 +8,11 @@ permalink: /interests
 <div class="col-md-8 pr-5">
 
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>At this site I share some of my research interests.</p>
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Ports and Waterways Coding Lab</li>
+  <li>Problem driven research using the Frame of Reference template</li>
+  <li>Open source software development</li>
 </ul> 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>

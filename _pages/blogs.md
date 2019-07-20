@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Mark van Koningsveld
-permalink: /about
+title: Blogs
+permalink: /blogs
 ---
 
 <div class="row justify-content-between">

@@ -7,12 +7,6 @@ permalink: /interests
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-Here I will share some of my research interests.
- <li> Ports and waterways coding lab
- <li> Problem driven research
- <li> Sustainability actions
-
-</div>
 
 <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 

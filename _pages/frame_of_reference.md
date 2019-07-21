@@ -2,6 +2,7 @@
 layout: page
 title: Frame of Reference
 permalink: /frame_of_reference
+category: [Frame of Reference]
 ---
 
 The Frame of Reference approach provides a generic approach to value assessment and management. Key to the approach is to make important aspects of a management issue explicit to facilitate interaction between actors with different backgrounds. An important question is which elements should be made explicit as a minimum.
@@ -21,3 +22,14 @@ Based on an analysis of the successful Dutch 'Dynamic Preservation' policy for c
         strategic objective.</li>
   </ul>
 </ul>
+
+
+{% for category in page.category %}
+  <h4>Posts on {{ category }}:</h4>
+  {% assign cat = category %}
+  <ul>
+    {% for post in site.categories.[cat] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

@@ -8,7 +8,7 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
 
 <img src="assets/images/Dredging_for_Sustainable_Infrastructure.png" alt="Dredging for Sustainable Infrastructure">
 
-{% assign cat = page.category %}
+{% assign cat = 'software' %}
 <div class="category-archive">
   <div>
     <span class="title">Category archive for {{ cat }}</span>

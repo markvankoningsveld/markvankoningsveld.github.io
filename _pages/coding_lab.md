@@ -2,6 +2,7 @@
 layout: page
 title: Ports and Waterways Coding Lab
 permalink: /coding_lab
+category: [Software, Ports & Waterways Coding Lab]
 ---
 
 The Ports and Waterways chair at TU Delft is dedicated to deliver excellent academic research and education on the analysis, design and management of competitive, safe and sustainable waterborne supply chains.
@@ -19,3 +20,12 @@ The Ports and Waterways discipline focuses on the effective analysis, design and
 </ul>
 
 Analyses should go beyond one single-objective business case (although this is an important base case). Different stakeholders find different aspects important. An integral approach is needed.
+
+<h4>Posts on {{ page.category }}:</h4>
+
+{% assign cat = page.category %}
+<ul>
+  {% for post in site.categories.[cat] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

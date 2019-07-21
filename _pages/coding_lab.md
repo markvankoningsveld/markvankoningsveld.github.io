@@ -21,9 +21,9 @@ The Ports and Waterways discipline focuses on the effective analysis, design and
 
 Analyses should go beyond one single-objective business case (although this is an important base case). Different stakeholders find different aspects important. An integral approach is needed.
 
-<h4>Posts on {{ page.category }}:</h4>
 
 {% for category in page.category %}
+  <h4>Posts on {{ category }}:</h4>
   {% assign cat = category %}
   <ul>
     {% for post in site.categories.[cat] %}

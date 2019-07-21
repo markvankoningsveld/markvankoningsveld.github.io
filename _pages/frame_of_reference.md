@@ -20,4 +20,4 @@ Based on an analysis of the successful Dutch 'Dynamic Preservation' policy for c
   </ul>
 </ul>
 
-<img src="assets/images/frame_of_reference.png" alt="Basis Frame of Reference template">
+<img src="assets/images/Frame_of_Reference.png" alt="Basis Frame of Reference template">

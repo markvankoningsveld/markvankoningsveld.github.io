@@ -2,7 +2,7 @@
 layout: page
 title: Reef rehabilitation
 permalink: /reef_rehabilitation
-category: [Reef rehabilitation, Sustainability]
+category: [Reef rehabilitation]
 ---
 
 One of the sustainability initiatives that I am involved with is the development of innovative technologies for active reef rehabilitation. 

@@ -9,18 +9,8 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
 
 <img src="assets/images/Dredging_for_Sustainable_Infrastructure.png" alt="Dredging for Sustainable Infrastructure">
 
-<h3>{{ page.category }}</h3>
+<h3>Posts on {{ page.category }}:</h3>
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-Test category Software (4):
 {% assign cat = page.category %}
 <ul>
   {% for post in site.categories.[cat] %}

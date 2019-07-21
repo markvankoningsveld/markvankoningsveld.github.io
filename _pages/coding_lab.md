@@ -23,9 +23,11 @@ Analyses should go beyond one single-objective business case (although this is a
 
 <h4>Posts on {{ page.category }}:</h4>
 
-{% assign cat = page.category %}
-<ul>
-  {% for post in site.categories.[cat] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for category in page.category %}
+  {% assign cat = category %}
+  <ul>
+    {% for post in site.categories.[cat] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

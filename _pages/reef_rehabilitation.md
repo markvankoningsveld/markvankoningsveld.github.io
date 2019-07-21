@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reef rehabilitation
-permalink: /reef_rehabiliation
+permalink: /reef_rehabilitation
 category: [Reef rehabilitation, Sustainability]
 ---
 

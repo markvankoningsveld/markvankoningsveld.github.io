@@ -13,5 +13,11 @@ permalink: /interests
     <li><a href="/co2_footprint_reduction">CO2 footprint reduction</a></li>
   </ul>
   <li><a href="/frame_of_reference">Frame of reference: problem driven research</a></li>
+  <ul>
+    <li><a href="/definition_of_objectives">Definition of objectives</a></li>
+    <li><a href="/definition_of_qsc">Defining quantitative state concepts</a></li>
+    <li><a href="/adaptive_design">Adaptive design of decision recipes</a></li>
+    <li><a href="/evaluation">Evaluation of decision recipe agains objectives</a></li>
+  </ul>
   <li><a href="/coding_lab">Ports and Waterways Coding Lab</a></li>
 </ul> 

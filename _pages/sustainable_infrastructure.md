@@ -14,6 +14,8 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
 {% endfor %}
 
 {% for post in site.categories.CATEGORY_NAME %}
+    <li>{{ post }}</li>
+{% endfor %}
 
 {% assign cat = page.category %}
 <div class="category-archive">

@@ -2,7 +2,7 @@
 layout: page
 title: Sustainable Infrastructure
 permalink: /sustainable_infrastructure
-category: [software]
+category: [Software]
 ---
 
 Mankind develops and operates all sorts of infrastructure to meet societies needs more efficiently. With the growing world population mankinds drive to modify the natural system needs to be assessed for its long term sustainability. Laboyrie et al. (2018) collected best practices from the marine construction industry related to this topic.

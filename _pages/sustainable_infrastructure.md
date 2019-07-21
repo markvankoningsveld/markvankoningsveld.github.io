@@ -20,6 +20,8 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
   </ul>
 {% endfor %}
 
+Test category Software:
+
 {% for category in site.categories %}
   {% if post.categories contains "Software" %}
     <h3>{{ category[0] }}</h3>

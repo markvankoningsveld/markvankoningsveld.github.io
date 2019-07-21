@@ -20,9 +20,10 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
   </ul>
 {% endfor %}
 
-Test category Software (2):
+Test category Software (4):
+{% assign cat = page.category %}
 <ul>
-  {% for post in site.categories.[page.category] %}
+  {% for post in site.categories.[cat] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>

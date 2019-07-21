@@ -13,11 +13,7 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
     <li>{{ cat[0] }}</li>
 {% endfor %}
 
-{% for post in site.categories.CATEGORY_NAME %}
-    <li>{{ post }}</li>
-{% endfor %}
-
-{% assign cat = page.category %}
+{% assign cat = 'software' %}
 <div class="category-archive">
   <div>
     <span class="title">Category archive for {{ cat }}</span>

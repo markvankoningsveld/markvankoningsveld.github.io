@@ -21,7 +21,7 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
 {% endfor %}
 
 {% for category in site.categories %}
-  {% if post.categories contains "software" %}
+  {% if post.categories contains "Software" %}
     <h3>{{ category[0] }}</h3>
     <ul>
       {% for post in category[1] %}

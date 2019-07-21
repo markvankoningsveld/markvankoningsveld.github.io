@@ -19,3 +19,5 @@ Based on an analysis of the successful Dutch 'Dynamic Preservation' policy for c
         strategic objective.</li>
   </ul>
 </ul>
+
+<img src="frame_of_reference.png" alt="Basis Frame of Reference template">

@@ -9,29 +9,10 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
 
 <img src="assets/images/Dredging_for_Sustainable_Infrastructure.png" alt="Dredging for Sustainable Infrastructure">
 
-{% for cat in site.categories %}
-    <li>{{ cat[0] }}</li>
-{% endfor %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="row listrecent">
-        {% assign cat = 'Software' %}
-        <div class="category-archive">
-          <div>
-            <span class="title">Category archive for {{ cat }}</span>
-          </div>
-          <div>
-            {{ cat }}
-            <ul class="posts">
-              {% for post in site.categories.cat %}
-              <li><span>{{ post.date | date_to_string }} - </span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-    </div>
-
-</section>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

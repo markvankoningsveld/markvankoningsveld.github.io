@@ -6,6 +6,8 @@ permalink: /frame_of_reference
 
 The Frame of Reference approach provides a generic approach to value assessment and management. Key to the approach is to make important aspects of a management issue explicit to facilitate interaction between actors with different backgrounds. An important question is which elements should be made explicit as a minimum.
 
+<img src="assets/images/Frame_of_Reference.png" alt="Basis Frame of Reference template">
+
 Based on an analysis of the successful Dutch 'Dynamic Preservation' policy for coastal sediment management, it was proposed that a 'basic' frame of reference should at least include:
 <ul>
   <li>A strategic objective;</li>
@@ -19,5 +21,3 @@ Based on an analysis of the successful Dutch 'Dynamic Preservation' policy for c
         strategic objective.</li>
   </ul>
 </ul>
-
-<img src="assets/images/Frame_of_Reference.png" alt="Basis Frame of Reference template">

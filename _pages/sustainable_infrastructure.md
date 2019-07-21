@@ -13,7 +13,7 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
     <li>{{ cat[0] }}</li>
 {% endfor %}
 
-{% assign cat = 'software' %}
+{% assign cat = 'Software' %}
 <div class="category-archive">
   <div>
     <span class="title">Category archive for {{ cat }}</span>

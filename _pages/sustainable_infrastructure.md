@@ -13,17 +13,25 @@ Mankind develops and operates all sorts of infrastructure to meet societies need
     <li>{{ cat[0] }}</li>
 {% endfor %}
 
-{% assign cat = 'Software' %}
-<div class="category-archive">
-  <div>
-    <span class="title">Category archive for {{ cat }}</span>
-  </div>
-  <div>
-    {{ cat }}
-    <ul class="posts">
-      {% for post in site.categories.cat %}
-      <li><span>{{ post.date | date_to_string }} - </span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="row listrecent">
+        {% assign cat = 'Software' %}
+        <div class="category-archive">
+          <div>
+            <span class="title">Category archive for {{ cat }}</span>
+          </div>
+          <div>
+            {{ cat }}
+            <ul class="posts">
+              {% for post in site.categories.cat %}
+              <li><span>{{ post.date | date_to_string }} - </span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+    </div>
+
+</section>

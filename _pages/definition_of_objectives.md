@@ -11,10 +11,10 @@ The Frame of Reference distinguishes two levels of objectives: the strategic obj
 
 A properly formulated operational objective: 
 <ul>
-    <li>identify a specific thing that you want to direct effort to,</li>
-    <li>identify a specific target that you are striving for,</li>
-    <li>select an observable verb that describe the behavior that you are striving for,</li>
-    <li>add additional criteria to indicate how or when the outcome will be observable.</li>
+    <li>identifies a specific thing that you want to direct effort to,</li>
+    <li>identifies a specific target that you are striving for,</li>
+    <li>expresses an observable verb that describes the behavior that you are striving for,</li>
+    <li>specifies additional criteria to indicate how or when the outcome will be observable.</li>
 </ul>
     
 {% for category in page.category %}

@@ -11,6 +11,5 @@ Our RECRUIT paper was published in Restoration Ecology!
   <li>Doropoulos, C., Elzinga, J., Ter Hofstede, R., <b>Van Koningsveld, M.</b> and Babcock, R., 2018. "Optimizing industrial-scale coral reef restoration: comparing harvesting wild coral spawn slicks and transplanting gravid adult colonies." Restoration Ecology, pp 1-10, <a href="https://doi.org/10.1111/rec.12918">https://doi.org/10.1111/rec.12918</a></li>
 </ul>
 
-<video width=100% controls>
-  <source src="https://player.vimeo.com/video/312848060" type="video/mp4">
-</video>
+<iframe width="100%" height="auto" src="https://vimeo.com/312848060">
+</iframe>

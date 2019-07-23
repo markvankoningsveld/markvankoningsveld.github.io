@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RECRUIT video published by CSIRO"
+title:  "Video: RECRUIT video published by CSIRO"
 author: mark
 categories: [Sustainability, Reef rehabilitation]
 image: assets/images/2019-01-22-PT-Fortitude.jpg

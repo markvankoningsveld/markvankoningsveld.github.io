@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Terminal Design Optimization: Adaptive agribulk terminal planning in light of an uncertain future"
+title:  "MSc Thesis: Terminal Design Optimization: Adaptive agribulk terminal planning in light of an uncertain future"
 author: mark
 categories: [Ports & Waterways Coding Lab, Software, OpenTISim, MSc Thesis]
 image: assets/images/2019-02-20-MScThesis-WijnandIJzermans.png

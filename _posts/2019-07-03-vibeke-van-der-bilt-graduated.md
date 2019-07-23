@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assessing emission performance of dredging projects"
+title:  "MSc Thesis: Assessing emission performance of dredging projects"
 author: mark
 categories: [Ports & Waterways Coding Lab, Software, Sustainability, CO2 footprint reduction, OpenCLSim, MSc Thesis]
 image: assets/images/2019-07-03-MScThesis-VibekevanderBilt.png 

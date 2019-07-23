@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our ReefGuard paper was published!"
+title:  "Paper: ReefGuard: A Scientific Approach to Active Reef Rehabilitation"
 author: mark
 categories: [Sustainability, Reef rehabilitation]
 image: assets/images/Spawing_Coral.jpg

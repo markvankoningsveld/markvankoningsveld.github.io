@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Matching Specialist Knowledge with End User Needs"
+title:  "PhD Thesis: Matching Specialist Knowledge with End User Needs"
 author: mark
 categories: [Frame of Reference, PhD Thesis]
 image: assets/images/2003-04-11-VanKoningsveld-Thesis.jpg 

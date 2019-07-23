@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our source term paper was published!"
+title:  "Paper: Estimating source terms for far field dredge plume modelling"
 author: mark
 categories: [Sustainability, Turbidity management]
 image: assets/images/PlumeGuard.png

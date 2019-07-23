@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RECRUIT video published by Van Oord"
+title:  "Video: RECRUIT video published by Van Oord"
 author: mark
 categories: [Sustainability, Reef rehabilitation]
 image: assets/images/2019-02-01-hydrogel-balls.jpg

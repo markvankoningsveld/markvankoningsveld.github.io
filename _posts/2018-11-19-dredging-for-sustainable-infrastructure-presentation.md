@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New book Dredging for Sustainable Infrastructure available"
+title:  "Book: Dredging for Sustainable Infrastructure"
 author: mark
 categories: [Sustainability, Frame of Reference, Reef rehabilitation, Turbidity management, CO2 footprint reduction]
 image: assets/images/Conference-CEDA-IADC.jpg

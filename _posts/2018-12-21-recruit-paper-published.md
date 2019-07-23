@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our RECRUIT paper was published!"
+title:  "Paper: Optimizing industrial-scale coral reef restoration: comparing harvesting wild coral spawn slicks and transplanting gravid adult colonies"
 author: mark
 categories: [Sustainability, Reef rehabilitation]
 image: assets/images/RECRUIT_concept.png

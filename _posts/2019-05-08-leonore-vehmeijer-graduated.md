@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Measures for the reduction of CO2 emissions, by the inland shipping fleet, on the Rotterdam-Antwerp corridor"
+title:  "MSc Thesis: Measures for the reduction of CO2 emissions, by the inland shipping fleet, on the Rotterdam-Antwerp corridor"
 author: mark
 categories: [Ports & Waterways Coding Lab, Software, Sustainability, CO2 footprint reduction, OpenTNSim, MSc Thesis]
 image: assets/images/2019-05-08-MScThesis-LeonoreVehmeijer.png

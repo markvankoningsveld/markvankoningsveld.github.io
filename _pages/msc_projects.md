@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CO2 footprint reduction
-permalink: /co2_footprint_reduction
+title: MSc projects
+permalink: /msc_projects
 category: [MSc Thesis]
 ---
 

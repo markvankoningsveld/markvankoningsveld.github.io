@@ -9,7 +9,9 @@ According to the <a href="https://www.merriam-webster.com/dictionary/objective">
 
 The Frame of Reference distinguishes two levels of objectives: the strategic objective and the operational objective.
 
-A properly formulated operational objective: 
+A strategic objective is a long-term, often vision related, goal that provides a guiding context for the development of more specific plans and projects.
+
+An operational objective is a specification of the strategic objective. It specifies what type of action is undertaken to achieve (part of) the strategic objective. A properly formulated operational objective: 
 <ul>
     <li>identifies a specific thing that you want to direct effort to,</li>
     <li>identifies a specific target that you are striving for,</li>

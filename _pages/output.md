@@ -49,7 +49,7 @@ permalink: /output
   <li>Davidson, M.A., S.G.J. Aarninkhof, <b>M. van Koningsveld</b> and R.A. Huntley, 2006. "Developing Coastal Video Monitoring Systems In Support of Coastal Zone Management." Journal of Coastal Research, SI 39, pp. 49-56.</li>
   <li><b>Van Koningsveld, M.</b>, M.A. Davidson and D.A. Huntley, 2005. "Matching Science with Coastal Management Needs; The Search for Appropriate Coastal State Indicators." Journal of Coastal Research. 21(3) 399-411.</li>
   <li><b>Van Koningsveld, M.</b>, J.P.M. Mulder, 2004. "Sustainable Coastal Policy Developments in the Netherlands. A Systematic Approach Revealed." Journal of Coastal Research. 20(2) 375 - 385</li>
-  <li><b>Van Koningsveld, M.</b>, 2003. "Matching Specialist Knowledge with End User Needs." PhD thesis, Twente University, Enschede, The Netherlands. ISBN 90-365-1897-0</li>
+  <li><b>Van Koningsveld, M.</b>, 2003. "Matching Specialist Knowledge with End User Needs." PhD thesis, Twente University, Enschede, The Netherlands. ISBN 90-365-1897-0 <a href="assest/documents/MainFile-PhD-MvK-def-03-03-2003-x800-D600.pdf">pdf</a></li>
   <li><b>Van Koningsveld, M.</b>, M.J.F. Stive, J.P.M. Mulder, H.J. de Vriend, D.W. Dunsbergen and B.G. Ruessink, 2003. "Usefulness and Effectiveness of Coastal Research. A Matter of perception?" Journal of Coastal Research 19(2): pp. 441-461. <a href="https://www.jstor.org/stable/4299184">https://www.jstor.org/stable/4299184</a></li>
   <li>Technische Adviescommissie voor de Waterkeringen (TAW), 2002. "Leidraad Zandige Kust." DWW-2003-046. ISBN 90-369-5541-6 (in Dutch)</li>
 </ul> 

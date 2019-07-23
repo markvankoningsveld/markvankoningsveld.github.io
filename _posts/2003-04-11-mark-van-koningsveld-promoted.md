@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assessing emission performance of dredging projects"
+title:  "Matching Specialist Knowledge with End User Needs"
 author: mark
 categories: [Frame of Reference, PhD Thesis]
 image: assets/images/2003-04-11-VanKoningsveld-Thesis.jpg 

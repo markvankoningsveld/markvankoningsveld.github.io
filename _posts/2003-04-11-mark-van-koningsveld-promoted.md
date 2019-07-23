@@ -4,7 +4,6 @@ title:  "PhD Thesis: Matching Specialist Knowledge with End User Needs"
 author: mark
 categories: [Frame of Reference, PhD Thesis]
 image: assets/images/2003-04-11-VanKoningsveld-Thesis.jpg 
-layout: pdf
 file_document_path: assets/documents/MainFile-PhD-MvK-def-03-03-2003-x800-D600.pdf
 ---
 On April 11th, 2003, Mark van Koningsveld defended his PhD Thesis "Matching Specialist Knowledge with End User Needs". 

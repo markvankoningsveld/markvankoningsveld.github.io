@@ -10,6 +10,4 @@ On April 11th, 2003, Mark van Koningsveld defended his PhD Thesis "Matching Spec
 
 Van Koningsveld, M., 2003. "Matching Specialist Knowledge with End User Needs." PhD thesis, Twente University, Enschede, The Netherlands. ISBN 90-365-1897-0
 
-<object data="{{ post.file_document_path }}" width="1000" height="1000" type='application/pdf'/>
-
 <iframe src="{{ post.file_document_path }}" width="100%" height="100%"></iframe>
